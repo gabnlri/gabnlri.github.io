@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gabnlri.github.io/sitemap/sitemap.txt
